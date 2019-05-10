@@ -1,5 +1,5 @@
 // Intermediate Javascript Assessments
-
+May10
 // 1. Write an arrow function that takes one argument of type array and returns the contents of that array in reverse order.
 
 var originalArray = [1, 2, 3, 4, 5, 6, 7]
